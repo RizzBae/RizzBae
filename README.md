@@ -19,14 +19,14 @@
 
 - ⚡ Fun fact **I am a pro competitive gamer also**
 
-'''yaml
+  ```yaml
 
 -About Me:
-         - Name: MD.Shaharia Rizve Srabon 
+         - Name: MD.Shaharia Rizve Srabon
          - Education: Diploma in CST
-         - Live in: Mymensingh,Jamalpur
-         
- '''        
+         - Live in: Mymensingh
+
+```      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
