@@ -50,3 +50,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RizzBae&show_icons=true&locale=en" alt="RizzBae" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RizzBae&" alt="RizzBae" /></p>  -->
+
+
+## Project Updates
+
+Documentation and project improvements are maintained here.
