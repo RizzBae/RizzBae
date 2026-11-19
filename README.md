@@ -51,4 +51,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RizzBae&" alt="RizzBae" /></p>  -->
 
+## Contributions
 
+Contributions and suggestions for improving this project are welcome.
